@@ -24,3 +24,6 @@ https://www.paperday.cn/
 
 * 知网  
 100+/篇
+
+## 英文论文
+* Turnitin  
