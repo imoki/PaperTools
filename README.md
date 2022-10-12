@@ -18,7 +18,6 @@ https://www.freecheck.cn/
 * PaperDay（标准版：不限次数，旗舰版：每天10：00-10：10免费一次）  
 https://www.paperday.cn/
 
-
 ## 收费
 * 维普    
 3元/千字
@@ -31,3 +30,23 @@ https://www.paperday.cn/
 
 ## 英文论文
 * Turnitin  
+
+
+## 免费/收费论文查询
+* scihub  
+https://sci-hub.se/  
+https://sci-hub.ru/  
+
+* Crossref
+该数据库包含超过 1.2 亿条记录及 API，可以通过 torrents 下载    
+https://www.crossref.org/  
+
+* General Index
+该数据库可以索引到1.07亿篇学术论文  
+https://archive.org/details/GeneralIndex  
+
+* OpenCitations Corpus  
+https://opencitations.net/corpus  
+
+* Scopus  
+不是免费的  
