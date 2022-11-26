@@ -18,6 +18,18 @@ https://www.freecheck.cn/
 * PaperDay（标准版：不限次数，旗舰版：每天10：00-10：10免费一次）  
 https://www.paperday.cn/
 
+* 写个论文  
+https://www.xiegelunwen.com  
+
+* 贝影论文修改助手  
+https://www.beiying.net  
+
+* 大学生论文写作助手  
+http://xiezuo.iptcheck.com.cn  
+
+* 百度学术  
+https://xueshu.baidu.com/usercenter/papercheck/index?site=index_links  
+
 ## 收费
 * 维普    
 https://vpcs.fanyu.com/  
