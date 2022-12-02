@@ -5,6 +5,10 @@
 信息为网络收集，工具为安全起见请用沙盒或虚拟机运行。  
 安全性请自行判断，概不负责  
 
+## 自研降重工具（免费，安全，一次至少降800字）  
+使用说明书：https://github.com/imoki/Reduce  
+下载地址：https://github.com/imoki/Reduce/releases/download/v1.2.3/Reduce_v1.2.3.zip  
+
 ## 目前免费：
 * PaperYY - 每天免费一次  
 https://www.paperyy.com/
