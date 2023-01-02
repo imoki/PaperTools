@@ -1,13 +1,16 @@
-# PaperTools
-论文查重降重工具汇总
+# 论文查重降重工具汇总
 
 ## 安全性
 信息为网络收集，工具为安全起见请用沙盒或虚拟机运行。  
 安全性请自行判断，概不负责  
 
-## 自研降重工具（免费，安全，一次至少降800字）  
+## 自研降重工具（免费，安全，易用，一次至少降800字）  
 使用说明书：https://github.com/imoki/Reduce  
-下载地址：https://github.com/imoki/Reduce/releases/download/v1.2.3/Reduce_v1.2.3.zip  
+* 版本2.0.0  
+https://github.com/imoki/Reduce/releases/download/v2.0.0/Reduce_v2.0.0.7z  
+* 备用地址（下载速度快）  
+https://everygg.lanzouf.com/iaVVR0jwx0id  
+密码:6666  
 
 ## 目前免费：
 * PaperYY - 每天免费一次  
