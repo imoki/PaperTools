@@ -4,7 +4,10 @@
 信息为网络收集，工具为安全起见请用沙盒或虚拟机运行。  
 安全性请自行判断，概不负责  
 
-## 自研降重工具（免费，安全，易用，一次至少降800字）  
+## 自研降重工具（免费，安全，一次至少降800字，多种降重方式）  
+### 微信小程序(永久论文降重)  
+<a href="https://imgse.com/i/pSVv89e"><img src="https://s1.ax1x.com/2023/01/08/pSVv89e.jpg" style="width:600px" alt="pSVv89e.jpg" border="0" /></a>  
+### PC端程序
 使用说明书：https://github.com/imoki/Reduce  
 * 版本2.0.0  
 https://github.com/imoki/Reduce/releases/download/v2.0.0/Reduce_v2.0.0.7z  
