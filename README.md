@@ -81,6 +81,7 @@ https://scdx.jc.paper880.com/
 * freecheck  
 
 * 论文狗  
+https://check.lunwengo.net/  
 
 ## 论文查询
 ### 英文论文
