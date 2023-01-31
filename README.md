@@ -76,11 +76,7 @@ https://scdx.jc.paper880.com/
 
 * PassMore  
 
-* Paperlike  
-
-* PaperDay  
-
-* freecheck  
+* Paperlike   
 
 * 秘塔写作猫  
 
