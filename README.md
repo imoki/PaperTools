@@ -83,6 +83,8 @@ https://scdx.jc.paper880.com/
 * 论文狗  
 https://check.lunwengo.net/  
 
+* 秘塔写作猫  
+
 ## 论文查询
 ### 英文论文
 * Turnitin  
