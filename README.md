@@ -51,11 +51,14 @@ https://vpcs.fanyu.com/
 * 知网  
 100+/篇
 
-## 英文论文
+## 其他  
+* 笔杆查重  
+
+## 论文查询
+### 英文论文
 * Turnitin  
 
-
-## 免费/收费论文查询
+### 免费/收费论文查询
 * scihub  
 https://sci-hub.se/  
 https://sci-hub.ru/  
