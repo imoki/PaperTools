@@ -42,6 +42,9 @@ http://xiezuo.iptcheck.com.cn
 * 百度学术  
 https://xueshu.baidu.com/usercenter/papercheck/index?site=index_links  
 
+* 论文狗（每日一次）  
+https://check.lunwengo.net/  
+
 ## 收费
 * 维普    
 https://vpcs.fanyu.com/  
@@ -61,8 +64,6 @@ https://scdx.jc.paper880.com/
 
 * 360  
 
-* 百度学术  
-
 * PaperRed  
 
 * PaperAsk  
@@ -80,9 +81,6 @@ https://scdx.jc.paper880.com/
 * PaperDay  
 
 * freecheck  
-
-* 论文狗  
-https://check.lunwengo.net/  
 
 * 秘塔写作猫  
 
