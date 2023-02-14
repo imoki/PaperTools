@@ -18,58 +18,81 @@ https://everygg.lanzouf.com/iaVVR0jwx0id
 密码:6666  
 
 ## 目前免费：
-* PaperYY（每天免费一次）  
-https://www.paperyy.com/
-
-* 超星大雅  
-https://dsa.dayainfo.com/
-
-* FreeCheck（每天免费一次）  
-https://www.freecheck.cn/
-
-* PaperDay（标准版：不限次数，旗舰版：每天10：00-10：10免费一次）  
-https://www.paperday.cn/
-
-* 写个论文  
-https://www.xiegelunwen.com  
-
-* 贝影论文修改助手  
-https://www.beiying.net  
-
-* 大学生论文写作助手  
-http://xiezuo.iptcheck.com.cn  
-
-* 百度学术  
-https://xueshu.baidu.com/usercenter/papercheck/index?site=index_links  
-
-* 论文狗（每天一次）  
-https://check.lunwengo.net/  
-
-* PP论文检测（每天一次）  
-http://www.papersee.com.cn/  
-
-* 万方查重(学信网认证的应届生免费一次)  
-https://chsi.wanfangtech.net/check/order  
+- #### PaperYY（每天免费一次）
+  
+  - https://www.paperyy.com/
+  
+- #### 超星大雅
+  
+  - https://dsa.dayainfo.com/
+  
+- #### PaperYY（每天免费一次）
+  
+  - https://www.paperyy.com/
+  
+- #### FreeCheck（每天免费一次）
+  
+  - https://www.freecheck.cn/
+  
+- #### PaperDay（标准版：不限次数，旗舰版：每天10：00-10：10免费一次）
+  
+  - https://www.paperday.cn/
+  
+- #### 写个论文
+  
+  - https://www.xiegelunwen.com
+  
+- #### 贝影论文修改助手
+  
+  - https://www.beiying.net
+  
+- #### 大学生论文写作助手
+  
+  - http://xiezuo.iptcheck.com.cn
+  
+- #### 百度学术
+  
+  - https://xueshu.baidu.com/usercenter/papercheck/index?site=index_links
+  
+- #### 论文狗（每天一次）
+  
+  - https://check.lunwengo.net/
+  
+- #### PP论文检测（每天一次）
+  
+  - http://www.papersee.com.cn/
+  
+- #### 万方查重(学信网认证的应届生免费一次)
+  
+  - https://chsi.wanfangtech.net/check/order
+  
 
 ## 收费
-* 维普    
-https://vpcs.fanyu.com/  
-3元/千字
-
-* 万方  
-3元/千字
-
-* 知网  
-100元+/篇
-
-* PaperFree（首次免费3000字）  
-查重：1.5元/千字  
-
-*  PaperTime  
-1.5元/千字  
-
-* 格子达  
-https://www.gocheck.cn/  
+- #### 维普
+  
+  - https://vpcs.fanyu.com/ 
+  - 3元/千字
+  
+- #### 万方
+  
+  - 3元/千字
+  
+- #### 知网
+  
+  - 100元+/篇
+  
+- #### PaperFree（首次免费3000字）
+  
+  - 查重：1.5元/千字
+  
+- #### PaperTime
+  
+  - 查重：1.5元/千字
+  
+- #### 格子达
+  
+  - https://www.gocheck.cn/
+  
 
 ## 其他  
 * 笔杆查重  
