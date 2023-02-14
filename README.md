@@ -42,8 +42,11 @@ http://xiezuo.iptcheck.com.cn
 * 百度学术  
 https://xueshu.baidu.com/usercenter/papercheck/index?site=index_links  
 
-* 论文狗（每日一次）  
+* 论文狗（每天一次）  
 https://check.lunwengo.net/  
+
+* PP论文检测（每天一次）  
+http://www.papersee.com.cn/  
 
 * 万方查重(学信网认证的应届生免费一次)  
 https://chsi.wanfangtech.net/check/order  
