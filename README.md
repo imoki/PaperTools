@@ -111,47 +111,66 @@ https://www.biguolunwen.com/
 ## 文献查询
 ### 中文数据库  
 * 中国知网  
-http://www.cnki.net/    
+http://www.cnki.net/  
+
 * 万方数据库  
 http://librarian.wanfangdata.com.cn/  
+
 * 中华人民共和国国家知识产权局  
 http://www.sipo.gov.cn/  
+
 * 国家哲学社会科学文献中心  
 http://www.ncpssd.org/  
+
 * 中国科技论文在线精品论文  
 http://highlights.paper.edu.cn/  
+
 * 国家图书馆馆藏中文图书数字化资源库  
 http://mylib.nlc.cn/web/guest/zhongwentushu  
+
 * 国家科技图书文献中心  
 http://www.nstl.gov.cn/  
+
 * 国家哲学社会科学学术期刊数据库  
 http://www.nssd.org/articles/articlesearch.aspx  
+
 * 中国国家统计局-国家数据  
 http:/data.stats.gov.cn/index.htm  
+
 * 维普中文期刊服务平台  
 http://data.whlib.ac.cn/  
 
 ### 外文数据库  
 * ERIC教育资源信息中心  
 http://www.eric.ed.gov/  
+
 * Socolar  
 http://www.socolar.com/  
+
 * 欧洲学位论文库  
 http://www.dart-europe.eu/basic-search.php  
+
 * Blackwell电子期刊  
 http://www.blackwell-synergy.com/  
+
 * 开放存取资源图书馆  
 http://www.oalib.com  
+
 * HighWire出版社电子期刊  
 http://highwire.stanford.edu/lists/freeart.dtl  
+
 * 剑桥大学机构知识库  
 http://www.dspace.cam.ac.uk/  
+
 * Aminer  
 http://www.aminer.cn/  
+
 * 科研出版社OA资源  
 http://www.scirp.org/journal/  
+
 * 世界数字图书馆  
 http://www.wdl.org/zh/  
+
 * Turnitin  
 
 ### 免费/收费论文查询
