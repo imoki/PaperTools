@@ -62,6 +62,9 @@ https://vpcs.fanyu.com/
 * 早降重  
 https://scdx.jc.paper880.com/  
 
+* 读秀  
+https://www.duxiu.com/  
+
 * 360  
 
 * PaperRed  
@@ -79,6 +82,13 @@ https://scdx.jc.paper880.com/
 * Paperlike   
 
 * 秘塔写作猫  
+
+* checkpass（来源：校园令。在页面内选择checkpass）  
+http://chachong.xiaoyuanling.com/  
+卡密：（共享的卡密查过后记得删除自己的报告）  
+Y2312664704268277  
+Y2360483410627790  
+Y2302271840761252  
 
 ## 论文查询
 ### 英文论文
