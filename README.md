@@ -142,11 +142,11 @@ http://www.dart-europe.eu/basic-search.php
 * Blackwell电子期刊  
 http://www.blackwell-synergy.com/  
 * 开放存取资源图书馆  
-http:/www.oalib.com  
+http://www.oalib.com  
 * HighWire出版社电子期刊  
 http://highwire.stanford.edu/lists/freeart.dtl  
 * 剑桥大学机构知识库  
-http:/www.dspace.cam.ac.uk/  
+http://www.dspace.cam.ac.uk/  
 * Aminer  
 http://www.aminer.cn/  
 * 科研出版社OA资源  
