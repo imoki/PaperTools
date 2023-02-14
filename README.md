@@ -62,6 +62,9 @@ https://vpcs.fanyu.com/
 * PaperFree（首次免费3000字）  
 查重：1.5元/千字  
 
+*  PaperTime  
+1.5元/千字  
+
 ## 其他  
 * 笔杆查重  
 
