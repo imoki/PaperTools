@@ -130,3 +130,13 @@ https://opencitations.net/corpus
 
 * Scopus  
 不是免费的  
+
+### 其他  
+* iData（免费下知网）  
+https://www.cn-ki.net/  
+
+* 国家哲学社会科学文献中心  
+http://www.ncpssd.org/  
+
+* 毕业论文资源导航  
+http://by.360xueke.com/  
