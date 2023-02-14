@@ -18,10 +18,10 @@ https://everygg.lanzouf.com/iaVVR0jwx0id
 密码:6666  
 
 ## 目前免费：
-* PaperYY - 每天免费一次  
+* PaperYY（每天免费一次）  
 https://www.paperyy.com/
 
-* 超星大雅  
+* 超星大雅(免费一次)  
 https://dsa.dayainfo.com/
 
 * FreeCheck（每天免费一次）  
@@ -44,6 +44,9 @@ https://xueshu.baidu.com/usercenter/papercheck/index?site=index_links
 
 * 论文狗（每日一次）  
 https://check.lunwengo.net/  
+
+* 万方查重(学信网认证的应届生免费一次)  
+https://chsi.wanfangtech.net/check/order  
 
 ## 收费
 * 维普    
