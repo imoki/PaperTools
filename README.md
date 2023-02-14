@@ -21,7 +21,7 @@ https://everygg.lanzouf.com/iaVVR0jwx0id
 * PaperYY（每天免费一次）  
 https://www.paperyy.com/
 
-* 超星大雅(免费一次)  
+* 超星大雅  
 https://dsa.dayainfo.com/
 
 * FreeCheck（每天免费一次）  
@@ -92,6 +92,9 @@ http://chachong.xiaoyuanling.com/
 Y2312664704268277  
 Y2360483410627790  
 Y2302271840761252  
+
+* 必过论文  
+https://www.biguolunwen.com/  
 
 ## 论文查询
 ### 英文论文
