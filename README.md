@@ -113,15 +113,15 @@ https://www.biguolunwen.com/
 * 中国知网  
 http://www.cnki.net/    
 * 万方数据库  
-http:/librarian.wanfangdata.com.cn/  
+http://librarian.wanfangdata.com.cn/  
 * 中华人民共和国国家知识产权局  
 http://www.sipo.gov.cn/  
 * 国家哲学社会科学文献中心  
 http://www.ncpssd.org/  
 * 中国科技论文在线精品论文  
-http:/highlights.paper.edu.cn/  
+http://highlights.paper.edu.cn/  
 * 国家图书馆馆藏中文图书数字化资源库  
-http:/mylib.nlc.cn/web/guest/zhongwentushu  
+http://mylib.nlc.cn/web/guest/zhongwentushu  
 * 国家科技图书文献中心  
 http://www.nstl.gov.cn/  
 * 国家哲学社会科学学术期刊数据库  
@@ -130,7 +130,6 @@ http://www.nssd.org/articles/articlesearch.aspx
 http:/data.stats.gov.cn/index.htm  
 * 维普中文期刊服务平台  
 http://data.whlib.ac.cn/  
-
 
 ### 外文数据库  
 * ERIC教育资源信息中心  
