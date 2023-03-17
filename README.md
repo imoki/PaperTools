@@ -4,11 +4,9 @@
 <a href="https://imgse.com/i/pSVv89e"><img src="https://s1.ax1x.com/2023/01/08/pSVv89e.jpg" style="width:600px" alt="pSVv89e.jpg" border="0" /></a>  
 ### PC端程序
 使用说明书：https://github.com/imoki/Reduce  
-* 版本2.0.0  
-https://github.com/imoki/Reduce/releases/download/v2.0.0/Reduce_v2.0.0.7z  
-* 备用地址（下载速度快）  
-https://everygg.lanzouf.com/iaVVR0jwx0id  
-密码:6666  
+* 版本2.0.0    
+https://everygg.lanzouf.com/iciIC0q750nc  
+密码:默库  
 
 ## 仓库安全性
 “安全性未知”文件夹内的工具为网络收集，安全性未知，为安全起见请在**沙盒**或**虚拟机**中运行。  
