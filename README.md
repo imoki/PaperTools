@@ -137,6 +137,7 @@ https://everygg.lanzouf.com/iciIC0q750nc
   
 - #### 秘塔写作猫
   
+  - https://xiezuocat.com/
   
 ## 文献查询
 ### 中文数据库  
