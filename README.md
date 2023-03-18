@@ -138,6 +138,10 @@ https://everygg.lanzouf.com/iciIC0q750nc
 - #### 秘塔写作猫
   
   - https://xiezuocat.com/
+
+- #### PP论文修改助手
+  
+  - http://zx.paperip.com/
   
 ## 文献查询
 ### 中文数据库  
