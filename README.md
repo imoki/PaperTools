@@ -23,10 +23,6 @@ https://everygg.lanzouf.com/iciIC0q750nc
   
   - https://dsa.dayainfo.com/
   
-- #### PaperYY（每天免费一次）
-  
-  - https://www.paperyy.com/
-  
 - #### FreeCheck（每天免费一次）
   
   - https://www.freecheck.cn/
