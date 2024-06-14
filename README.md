@@ -1,12 +1,4 @@
 # 论文查重降重工具汇总
-## 自研降重工具（免费，安全，多种降重方式，AI辅助，同义替换等）  
-### 微信小程序(永久论文降重)  
-<a href="https://imgse.com/i/pSVv89e"><img src="https://s1.ax1x.com/2023/01/08/pSVv89e.jpg" style="width:600px" alt="pSVv89e.jpg" border="0" /></a>  
-### PC端程序
-使用说明书：https://github.com/imoki/Reduce  
-* 版本2.0.0    
-https://everygg.lanzouf.com/iciIC0q750nc  
-密码:默库  
 
 ## 仓库安全性
 “安全性未知”文件夹内的工具为网络收集，安全性未知，为安全起见请在**沙盒**或**虚拟机**中运行。  
